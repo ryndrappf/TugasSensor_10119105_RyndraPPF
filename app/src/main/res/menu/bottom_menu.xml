@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ NIM : 10119105
+ Nama : Ryndra Putra Pratama Firdaus
+ Kelas: IF-3
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Restaurant"
+        android:id="@+id/restaurant"
+        android:icon="@drawable/ic_baseline_restaurant_24" />
+    <item android:title="MyLocation"
+        android:id="@+id/current"
+        android:icon="@drawable/ic_baseline_my_location_24"/>
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>

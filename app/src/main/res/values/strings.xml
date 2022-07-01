@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasSensor_10119105_RyndraPPF</string>
+    <string name="splash_screen_name">MyRestaurant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_description">Saya adalah salah seorang mahasiswa Teknik Informatika. Seseorang yang selalu menghadapi masalah dengan ketawa. Seseorang yang masih belum bisa membahagiakan orang tua. Seseorang yang punya cita-cita setinggi langit. Seseorang yang selalu mengikuti arus kehidupan. Seseorang yang masih ingin mencari dirinya siapa.</string>
+    <string name="profile_nim">10119105</string>
+    <string name="profile_name">Ryndra Putra Pratama Firdaus</string>
+    <string name="profile_kelas">IF-3</string>
+</resources>
